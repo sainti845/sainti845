@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sainti845
-- 👀 I’m interested in WBE DEVELOPMENT
+- 👀 I’m interested in WEB DEVELOPMENT
 - 🌱 I’m currently learning JAVASCRIPT
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/ayush-kapruwan-96117a213
 
 <!---
