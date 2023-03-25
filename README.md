@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sainti845
 - 👀 I’m interested in WEB DEVELOPMENT
-- 🌱 I’m currently learning REACT
+- 🌱 I’m currently learning NODE JS
 - 📫 How to reach me https://www.linkedin.com/in/ayush-kapruwan-96117a213
 
 <!---
